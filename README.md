@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-
+ ![Alt text](https://github.com/EsraaSalah28/Machine-Learning-Microservice-API/blob/master/green.png)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
