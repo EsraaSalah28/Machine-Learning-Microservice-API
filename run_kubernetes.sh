@@ -8,11 +8,12 @@
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-
+kubectl apply -f kubernetes_deployment.yaml
 
 # Step 3:
 # List kubernetes pods
-
+kubectl get pods
 # Step 4:
 # Forward the container port to a host
+kubectl port-forward deployment/pythonapp 8000 80
 

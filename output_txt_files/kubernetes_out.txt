@@ -1,1 +1,6 @@
-<paste log output from Kubernetes-mediated prediction, here>
+kubectl get pods
+NAME                                READY   STATUS    RESTARTS   AGE
+pythonapp-7bd8c5d887-6zq5l   1/1     Running   0          2m51s
+pythonapp-7bd8c5d887-clfmg   1/1     Running   0          2m51s
+pythonapp-7bd8c5d887-d22ds   1/1     Running   0          2m51s
+pythonapp-7bd8c5d887-l5fv6   1/1     Running   0          2m51s
